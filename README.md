@@ -58,9 +58,5 @@ Upon closer inspection of the dashboard:
 - **Mapbox** – Geographic mapping for ZIP code visuals
 - **Airbnb Seattle Dataset (2016)** – Listing and pricing data
 
----
 
-## 📎 Notes
-
-This dashboard was built to enable **real estate investment decisions** using exploratory data analysis and visualization. It can be extended to include more recent data or adapted to other cities with high Airbnb activity.
 
