@@ -12,7 +12,7 @@ To help him make a data-driven decision, I built an **interactive dashboard** us
 
 The dashboard includes several key insights to guide investment decisions:
 
-![Dashboard Overview](assets/dashboard.png)
+![Dashboard Overview](https://github.com/Niloy-Aiml34/AirBnB_DataVisualisation/blob/main/Dashboard.png)
 
 ### 1. **Price by ZIP Code**
 Displays average Airbnb listing prices across different ZIP codes in Seattle, helping identify affordable vs. premium areas.
